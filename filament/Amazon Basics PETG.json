@@ -1,0 +1,46 @@
+{
+    "default_filament_colour": [
+        "#FFFFFF"
+    ],
+    "fan_max_speed": [
+        "35"
+    ],
+    "fan_min_speed": [
+        "0"
+    ],
+    "filament_flow_ratio": [
+        "1"
+    ],
+    "filament_settings_id": [
+        "Amazon Basics PETG"
+    ],
+    "filament_vendor": [
+        "Amazon"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "75"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "75"
+    ],
+    "inherits": "Kingroon Generic PETG",
+    "is_custom_defined": "0",
+    "name": "Amazon Basics PETG",
+    "nozzle_temperature": [
+        "245"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "245"
+    ],
+    "nozzle_temperature_range_high": [
+        "250"
+    ],
+    "nozzle_temperature_range_low": [
+        "230"
+    ],
+    "overhang_fan_speed": [
+        "40"
+    ],
+    "version": "1.9.0.2"
+}

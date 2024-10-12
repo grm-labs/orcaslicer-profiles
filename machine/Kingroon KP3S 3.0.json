@@ -1,0 +1,36 @@
+{
+    "before_layer_change_gcode": ";BEFORE_LAYER_CHANGE\n;[layer_z]\n;BEFORE_LAYER_CHANGE HEIGHT=[layer_z] LAYER=[layer_num]",
+    "from": "User",
+    "inherits": "Kingroon KP3S PRO V2 0.4 nozzle",
+    "is_custom_defined": "0",
+    "layer_change_gcode": ";AFTER_LAYER_CHANGE\n;[layer_z]\n;AFTER_LAYER_CHANGE",
+    "machine_end_gcode": "END_PRINT",
+    "machine_max_acceleration_x": [
+        "0",
+        "9000"
+    ],
+    "machine_max_acceleration_y": [
+        "0",
+        "9000"
+    ],
+    "machine_max_acceleration_z": [
+        "0",
+        "100"
+    ],
+    "machine_pause_gcode": "PAUSE",
+    "machine_start_gcode": "START_PRINT EXTRUDER_TEMP=[nozzle_temperature_initial_layer] BED_TEMP=[bed_temperature_initial_layer_single]",
+    "manual_filament_change": "1",
+    "name": "Kingroon KP3S 3.0",
+    "nozzle_type": "brass",
+    "print_host": "192.168.1.80",
+    "printable_area": [
+        "0x0",
+        "177x0",
+        "177x175",
+        "0x175"
+    ],
+    "printable_height": "180",
+    "printer_settings_id": "Kingroon KP3S 3.0",
+    "use_firmware_retraction": "0",
+    "version": "1.9.0.2"
+}

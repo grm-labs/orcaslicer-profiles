@@ -1,0 +1,52 @@
+{
+    "close_fan_the_first_x_layers": [
+        "2"
+    ],
+    "enable_pressure_advance": [
+        "0"
+    ],
+    "fan_max_speed": [
+        "50"
+    ],
+    "fan_min_speed": [
+        "50"
+    ],
+    "filament_cost": [
+        "17.99"
+    ],
+    "filament_diameter": [
+        "1.75"
+    ],
+    "filament_flow_ratio": [
+        "0.96"
+    ],
+    "filament_settings_id": [
+        "Overture PLA"
+    ],
+    "filament_vendor": [
+        "Overture"
+    ],
+    "from": "User",
+    "full_fan_speed_layer": [
+        "3"
+    ],
+    "hot_plate_temp": [
+        "60"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "60"
+    ],
+    "inherits": "Kingroon Generic PLA",
+    "is_custom_defined": "0",
+    "name": "Overture PLA",
+    "nozzle_temperature": [
+        "215"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "220"
+    ],
+    "overhang_fan_threshold": [
+        "25%"
+    ],
+    "version": "1.9.0.2"
+}
